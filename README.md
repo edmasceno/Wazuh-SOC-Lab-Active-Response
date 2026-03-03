@@ -13,7 +13,7 @@ O laboratório foi montado em ambiente virtualizado (VirtualBox) utilizando rede
 | **Target-Ubuntu** | Ubuntu Server 24.04 LTS | Endpoint Monitorado (Vítima) | `192.168.1.7` |
 | **Kali Linux** | Kali 2024.4 | Atacante (Red Team) | `192.168.1.8` |
 
-![Acesso ao Painel Wazuh](assets/wazuh-painel-acess.jpg)
+![Acesso ao Painel Wazuh](assets/wazuh-painel-acess.png)
 *Interface principal do Wazuh v4.14.3 exibindo o resumo dos alertas de segurança.*
 
 ---
